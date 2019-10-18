@@ -1,0 +1,53 @@
+body
+{
+	font-family: "Times New Roman", sans-serif, Century, "Arial Narrow";
+	text-align: justify;
+}
+
+h1 
+{
+  text-align: center;
+}
+
+.center2 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+		table 
+		{
+			font-family: arial, sans-serif;
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		td, th 
+		{
+			border: 1px solid #dddddd;
+			text-align: left;
+			padding: 8px;
+		}
+
+		tr:nth-child(even) 
+		{
+			background-color: #dddddd;
+		}
+
+#Introduction
+{
+	color : Green;
+}
+
+#Gameplay
+{
+	color : Blue;
+}
+
+#Mobs
+{
+	color : Orange;
+}
+
